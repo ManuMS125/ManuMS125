@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ManuMS125
+- 👋 Hi, I’m Manu Madalu Shivadeva
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me E-mail
-- 😄 Pronouns: He
-- ⚡ Fun fact: 
+- 🌱 I’m good in python and java
+- 💞️ I’m looking to collaborate on any tech learning
+- 📫 How to reach me E-mail - manushivadeva2005@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ I love watching movies 
 
 <!---
 ManuMS125/ManuMS125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
