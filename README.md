@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manu Madalu Shivadeva
-- 👀 I am passionate in Coding
+- 👀 I'm passionate in Coding
 - 🌱 I’m good in python and java
 - 💞️ I’m looking to collaborate on any tech learning
 - 📫 How to reach me E-mail - manushivadeva2005@gmail.com
