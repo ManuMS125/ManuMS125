@@ -1,4 +1,4 @@
-![profile](/image.png)
+
 
 
 - 👋 Hi, I’m Manu Madalu Shivadeva
