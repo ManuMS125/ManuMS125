@@ -12,6 +12,7 @@
 <br>
 <h2>Technical Skills<h2>
 C++,Java,Python,HTML,Office
+ Hi, I’m Manu Madalu Shivadeva<br>
 
 
 <!---
