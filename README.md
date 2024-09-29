@@ -11,7 +11,7 @@
 <br>
 <br>
 <h2>Technical Skills<h2>
-C++,Java,Python,HTML,Office
+<p>C++,Java,Python,HTML,Office<p>
 
 
 <!---
