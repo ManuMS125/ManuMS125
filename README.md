@@ -8,6 +8,11 @@
 - 📫 How to reach me E-mail - manushivadeva2005@gmail.com<br>
 - 😄 Pronouns: He/Him<br>
 - ⚡ I love watching movies<br> 
+<br>
+<br>
+<h2>Technical Skills<h2>
+C++,Java,Python,HTML,Office
+
 
 <!---
 ManuMS125/ManuMS125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
