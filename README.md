@@ -1,13 +1,13 @@
 ![profile](/image.png)
 
 <h2>About me </h2>
-- 👋 Hi, I’m Manu Madalu Shivadeva
-- 👀 I'm passionate in Coding
-- 🌱 I’m good in python and java
-- 💞️ I’m looking to collaborate on any tech learning
-- 📫 How to reach me E-mail - manushivadeva2005@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ I love watching movies 
+- 👋 Hi, I’m Manu Madalu Shivadeva<br>
+- 👀 I'm passionate in Coding<br>
+- 🌱 I’m good in python and java<br>
+- 💞️ I’m looking to collaborate on any tech learning<br>
+- 📫 How to reach me E-mail - manushivadeva2005@gmail.com<br>
+- 😄 Pronouns: He/Him<br>
+- ⚡ I love watching movies<br> 
 
 <!---
 ManuMS125/ManuMS125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
