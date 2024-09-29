@@ -10,8 +10,7 @@
 - ⚡ I love watching movies<br> 
 <br>
 <br>
-<h2>Technical Skills<h2>
-<h4>C++,Java,Python,HTML,Office<h4>
+<h2>Technical Skills<h2><h4>C++,Java,Python,HTML,Office<h4>
 
 
 <!---
