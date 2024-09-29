@@ -1,6 +1,6 @@
 ![profile](/image.png)
 
-
+<h2>About me </h2>
 - 👋 Hi, I’m Manu Madalu Shivadeva
 - 👀 I'm passionate in Coding
 - 🌱 I’m good in python and java
